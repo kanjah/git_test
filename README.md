@@ -1,2 +1,2 @@
 # git_test
-my first git
+This is Maulid first git project
